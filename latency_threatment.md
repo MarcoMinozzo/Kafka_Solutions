@@ -215,6 +215,4 @@ These commands help measure throughput and read/write latency in the MSK cluster
 
 ---
 
-## Conclusion
 
-By following these steps, you can reduce latency on Amazon MSK clusters. Optimizing network configurations, fine-tuning producer and consumer settings, balancing the Kafka cluster, and monitoring metrics in CloudWatch are key to ensuring optimal performance and efficiency for Kafka on AWS.
